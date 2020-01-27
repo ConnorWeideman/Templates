@@ -1,0 +1,402 @@
+    <section class="design" id="main1">
+        <section id="product-slider">
+            <div id="slide">
+                <div id="wrap2">
+                    <div id="wrap">
+                        <a href="<?php bloginfo('wpurl')?>/products" class="product">
+                            <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Three-Product-Cyclone.png">
+                        </a>
+                        <a href="<?php bloginfo('wpurl')?>/products" class="product">
+                            <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/ING0529-1.jpg">
+                        </a>
+                        <a href="<?php bloginfo('wpurl')?>/products" class="product">
+                            <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/BE9319.jpg">
+                        </a>
+                        <a href="<?php bloginfo('wpurl')?>/products" class="product">
+                            <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/ING0646-1.jpg">
+                        </a>
+                        <a href="<?php bloginfo('wpurl')?>/products" class="product">
+                            <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Plant2.jpg">
+                        </a>
+                    </div>
+                </div>
+                <div class="arrow" id="left-arrow">
+                    <i class="fas fa-chevron-left"></i>
+                </div>
+                <div class="arrow" id="right-arrow">
+                    <i class="fas fa-chevron-right"></i>
+                </div>
+            </div>
+            <h2>PRODUCTS / SERVICES</h2>
+        </section>
+        <section id="about">
+            <h2>ABOUT US</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies nulla
+                consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut vulputate
+                sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus. Etiam
+                ac neque id sem convallis blandit sit amet vel mi.
+
+                Mauris at magna eu orci dignissim congue non nec felis. Donec interdum sit amet mi vitae rutrum. Orci
+                varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at nisi
+                ultrices, tincidunt nulla in, tempor ex. Curabitur id velit dui. Maecenas ut consectetur ex.
+                Pellentesque vitae mattis metus, sit amet mollis dui. Morbi luctus libero et orci volutpat, ut efficitur
+                felis viverra. Nulla accumsan ornare luctus. Etiam pharetra pellentesque leo, non blandit felis sagittis
+                sit amet. Sed placerat vel tortor id molestie. Cras dignissim nulla sed diam convallis blandit. Nulla
+                facilisi. Cras auctor lorem in leo scelerisque, eget eleifend dui facilisis. Vivamus purus nisl, sodales
+                eu lectus nec, suscipit sodales ante. Ut dolor ligula, dictum at augue volutpat, sodales consequat
+                risus.</p>
+        </section>
+        <section id="cards">
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <a href="<?php bloginfo('wpurl')?>/about" class="card" id="card1">
+                <div class="icon">
+                    <i class="fas fa-user"></i>
+                </div>
+                <h3>PROFILE</h3>
+            </a>
+            <a href="<?php bloginfo('wpurl')?>/strategy" class="card" id="card2">
+                <div class="icon">
+                    <i class="fas fa-chess"></i>
+                </div>
+                <h3>STRATEGY</h3>
+            </a>
+            <a href="<?php bloginfo('wpurl')?>/projects" class="card" id="card3">
+                <div class="icon">
+                    <i class="fas fa-globe-africa"></i>
+                </div>
+                <h3>OPERATIONS</h3>
+            </a>
+        </section>
+        <section id="news">
+            <div class="circle"></div>
+            <div id="news-row">
+                <a href="<?php bloginfo('wpurl')?>/news" class="news">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                    <div class="overlay">
+                        <h3>Gallery</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae leo tempus, sagittis sem
+                            nec, luctus nulla. Quisque sed lectus non ex euismod pretium. Mauris ex enim, tincidunt sit
+                            amet blandit nec, lacinia a ligula. Fusce sit amet ex vulputate, accumsan leo et, lacinia
+                            nisi. Cras sem mauris, molestie tempor viverra sed, scelerisque nec tellus. Nulla interdum
+                            vehicula nisl sed volutpat. Aenean feugiat neque eu semper maximus. Duis malesuada congue
+                            dui, nec ultricies sem sollicitudin quis. Vestibulum ante ipsum primis in faucibus orci
+                            luctus et ultrices posuere cubilia Curae;</p>
+                    </div>
+                </a>
+                <a href="<?php bloginfo('wpurl')?>/news" class="news">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant4.jpg">
+                    <div class="overlay">
+                        <h3>News</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae leo tempus, sagittis sem
+                            nec, luctus nulla. Quisque sed lectus non ex euismod pretium. Mauris ex enim, tincidunt sit
+                            amet blandit nec, lacinia a ligula. Fusce sit amet ex vulputate, accumsan leo et, lacinia
+                            nisi. Cras sem mauris, molestie tempor viverra sed, scelerisque nec tellus. Nulla interdum
+                            vehicula nisl sed volutpat. Aenean feugiat neque eu semper maximus. Duis malesuada congue
+                            dui, nec ultricies sem sollicitudin quis. Vestibulum ante ipsum primis in faucibus orci
+                            luctus et ultrices posuere cubilia Curae;</p>
+                    </div>
+                </a>
+                <a href="<?php bloginfo('wpurl')?>/news" class="news">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant1.jpg">
+                    <div class="overlay">
+                        <h3>Press Releases</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae leo tempus, sagittis sem
+                            nec, luctus nulla. Quisque sed lectus non ex euismod pretium. Mauris ex enim, tincidunt sit
+                            amet blandit nec, lacinia a ligula. Fusce sit amet ex vulputate, accumsan leo et, lacinia
+                            nisi. Cras sem mauris, molestie tempor viverra sed, scelerisque nec tellus. Nulla interdum
+                            vehicula nisl sed volutpat. Aenean feugiat neque eu semper maximus. Duis malesuada congue
+                            dui, nec ultricies sem sollicitudin quis. Vestibulum ante ipsum primis in faucibus orci
+                            luctus et ultrices posuere cubilia Curae;</p>
+                    </div>
+                </a>
+            </div>
+            <h2>MEDIA</h2>
+        </section>
+        <section id="clients">
+            <h2>CLIENTS</h2>
+            <div id="clientPhotos">
+                <div class="client">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/download2.jpg">
+                </div>
+                <div class="client">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/download4.jpg">
+                </div>
+                <div class="client">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/download5.png">
+                </div>
+                <div class="client">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/download6.jpg">
+                </div>
+                <div class="client">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/download3.jpg">
+                </div>
+                <div class="client">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/download7.jpg">
+                </div>
+                <div class="client">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/download8.png">
+                </div>
+                <div class="client">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/download9.jpg">
+                </div>
+            </div>
+            <div id="clientNames">
+                <p>Company1</p>
+                <p>Mining Company</p>
+                <p>Industrial Mining </p>
+                <p>Mining Company2</p>
+                <p>Mining Comp</p>
+                <p>Mining Company</p>
+                <p>Company2</p>
+                <p>Mining4life</p>
+                <p>Mining Company7</p>
+                <p>Mining 67</p>
+                <p>Mining Company5</p>
+                <p>Mining</p>
+            </div>
+        </section>
+    </section>
+
+    #main1 #product-slider {
+    height: auto;
+    width: 100%;
+    background-color: #DDD;
+    padding: 50px 50px 25px;
+    box-sizing: border-box;
+    border-bottom: 2px solid #555;
+}
+#main1 #product-slider #slide {
+    height: 30vh;
+    width: 90%;
+    margin: auto;
+    border: 5px inset #be1f24;
+    background-color: #FFF;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    position: relative;
+}
+#main1 #product-slider #slide #wrap2 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+#main1 #product-slider #slide #wrap {
+    width: 125%;
+    height: 100%;
+    position: relative;
+    left: 0;
+    display: flex;
+    transition: 1s;
+}
+#main1 #product-slider #slide #wrap .product {
+    width: 25%;
+    display: inline-block;
+    height: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+#main1 #product-slider #slide #wrap .product img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+#main1 #product-slider #slide .arrow {
+    line-height: 30vh;
+    vertical-align: middle;
+    position: absolute;
+    top: 0;
+    font-size: 250%;
+    color: #777;
+    cursor: pointer;
+}
+#main1 #product-slider #slide .arrow:hover {
+    color: #555;
+}
+#main1 #product-slider #slide #left-arrow {
+    left: -50px;
+}
+#main1 #product-slider #slide #right-arrow {
+    right: -50px;
+}
+#main1 #product-slider h2 {
+    text-align: center;
+    padding: 20px 0 0;
+}
+#main1 #about {
+    background-color: #FFF;
+    padding: 10vh 15%;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px inset #000;
+}
+#main1 #about h2 {
+    margin-block-start: 0;
+}
+#main1 #cards {
+    width: 100%;
+    height: 25vh;
+    overflow: visible;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #999;
+    border-top: 4px solid #be1f24;
+    border-bottom: 4px solid #be1f24;
+}
+#main1 #cards .circle {
+    background: #be1f24;
+    bottom: -12px;
+    left: 0;
+}
+#main1 #cards .circle:first-child {
+    background: #be1f24;
+    top: -12px;
+    bottom: unset;
+    right: 0;
+    left: unset;
+}
+#main1 #cards .card {
+    height: 30vh;
+    width: 20%;
+    background: radial-gradient(#FFF,#CCC);
+    border: 1px solid #AAA;
+    box-shadow: 0 0 5px #888;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    transition: 0.5s;
+    cursor: pointer;
+}
+#main1 #cards .card:hover {
+    background: radial-gradient(#FFF,#EEE);
+    box-shadow: 0 0 10px #555;
+    color: #111;
+    transform: translateY(-5%) scale(1.05);
+}
+#main1 #cards #card1 {
+    left: 15%;
+}
+#main1 #cards #card2 {
+    left: 40%;
+}
+#main1 #cards #card3 {
+    left: 65%;
+}
+#main1 #cards .card .icon {
+    height: 70%;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#main1 #cards .card .icon svg {
+    height: 100%;
+    width: 100%;
+}
+#main1 #cards .card h3 {
+    text-align: center;
+}
+#main1 #news {
+    width: 100%;
+    background-color: #DDD;
+    padding: 100px 50px 0;
+    box-sizing: border-box;
+    border-bottom: 4px solid #000;
+    position: relative;
+}
+#main1 #news .circle {
+    bottom: -12px;
+    right: 0;
+    background: #000;
+}
+#main1 #news h2 {
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+}
+#main1 #news #news-row {
+    width: 80%;
+    margin: auto;
+    height: 40vh;
+    display: flex;
+    box-shadow: 2px 2px 5px #222;
+}
+#main1 #news #news-row .news {
+    height: 100%;
+    flex-basis: 0;
+    flex: 1 1 0px;
+    border: 1px solid #555;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+}
+#main1 #news #news-row .news img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+#main1 #news #news-row .news .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: -30vh;
+    background-color: #FFF;
+    color: #000;
+    transition: 1s;
+    box-sizing: border-box;
+    border-top: 2px solid #be1f24;
+}
+#main1 #news #news-row .news:hover .overlay {
+    bottom: 0;
+}
+#main1 #news #news-row .news .overlay h3 {
+    line-height: 10vh;
+    margin: 0;
+    padding: 0 20px;
+    vertical-align: middle;
+}
+#main1 #news #news-row .news .overlay p {
+    padding: 0 20px;
+    margin: 0;
+}
+#main1 #clients {
+    background: #FFF;
+    box-shadow: 0 0 10px inset #000;
+    padding: 50px 15%;
+    text-shadow: 2px 2px 1px #AAA;
+}
+#main1 #clients #clientPhotos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+#main1 #clients #clientPhotos .client {
+    max-width: 25%;
+}
+#main1 #clients #clientPhotos .client img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+#main1 #clients #clientNames {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#main1 #clients #clientNames p {
+    display: inline;
+    line-height: 50px;
+    min-width: 20%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+const slider = document.querySelector("#main1 #product-slider #slide #wrap");
+document.querySelector("#main1 #product-slider #left-arrow").addEventListener("click", () => {
+    slider.style.left = "0";
+});
+document.querySelector("#main1 #product-slider #right-arrow").addEventListener("click", () => {
+    slider.style.left = "-25%";
+});

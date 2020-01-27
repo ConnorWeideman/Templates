@@ -1,0 +1,78 @@
+    <section class="design">
+        <div id="design1">
+            <div class="column" id="about">
+                <h3>About</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non efficitur leo. Suspendisse quam
+                    nisl, tempus ut leo eu, sagittis tristique est. Nunc vel enim imperdiet est eleifend rhoncus at sit
+                    amet nulla. Vivamus vitae blandit velit, at bibendum tellus. Cras libero augue, consequat at
+                    placerat in, fringilla vel ex. Donec ac risus condimentum, viverra tellus nec, finibus odio. Nunc
+                    magna ipsum, pulvinar id arcu eu, pharetra dignissim diam. In eu mi quis erat posuere venenatis nec
+                    eu eros. Proin nec risus eleifend, fringilla sem vel, elementum quam. </p>
+            </div>
+            <div class="column" id="products">
+                <h3>Services</h3>
+                <a href="<?php bloginfo('wpurl')?>/products">Operations of
+                    Processing Facilities</a>
+                <a href="<?php bloginfo('wpurl')?>/products">Feasibility and Due
+                    Diligence Studies</a>
+                <a href="<?php bloginfo('wpurl')?>/products">Engineering Design and Fabrication</a>
+                <a href="<?php bloginfo('wpurl')?>/products">Design and Build of Coal Processing Plants</a>
+                <a href="<?php bloginfo('wpurl')?>/products">Modular Plants</a>
+                <a href="<?php bloginfo('wpurl')?>/products">Bomax Engineering</a>
+            </div>
+            <div class="column">
+                <h3>Operations</h3>
+                <a href="<?php bloginfo('wpurl')?>/projects">Hakhano Colliery</a>
+                <a href="<?php bloginfo('wpurl')?>/projects">NewClydesdale Colliery</a>
+                <a href="<?php bloginfo('wpurl')?>/projects">ZAC Discard Plant</a>
+                <a href="<?php bloginfo('wpurl')?>/projects">Phalanndwa Colliery</a>
+                <a href="<?php bloginfo('wpurl')?>/projects">Somkhele</a>
+                <a href="<?php bloginfo('wpurl')?>/projects">Kiepersol</a>
+            </div>
+            <div class="column" id="contact">
+                <h3>Contact</h3>
+                <p>Phone: +27 (0) 13 656 2440 / 4758</p>
+                <p>Fax: +27 (0) 13 656 2401</p>
+                <p>Email: info@ingwenyamp.co.za</p>
+                <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Map.png">
+            </div>
+        </div>
+    </section>
+
+
+
+footer #design1 {
+    height: auto;
+    display: flex;
+    text-align: center;
+    background-color: #222;
+    padding: 20px;
+}
+footer #design1 .column {
+    width: 25%;
+    border-left: 1px solid #555;
+    border-right: 1px solid #555;
+    padding: 20px;
+    box-sizing: border-box;
+}
+footer #design1 .column h3 {
+    border-bottom: 3px solid #DDD;
+}
+footer #design1 .column a {
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    background-color: #444;
+    color: #FFF;
+    cursor: pointer;
+}
+footer #design1 .column a:hover {
+    background-color: #333;
+}
+footer #design1 #about p {
+    padding: 10px 50px;
+}
+footer #design1 #contact img {
+    object-fit: contain;
+    width: 100%;
+}

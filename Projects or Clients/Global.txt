@@ -1,0 +1,384 @@
+
+    <section id="projects2" class="design">
+        <div id="wrap">
+            <section id="left">
+                <h2>PROJECTS</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.
+
+                    Mauris at magna eu orci dignissim congue non nec felis. Donec interdum sit amet mi vitae rutrum.
+                    Orci
+                    varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec at nisi
+                    ultrices, tincidunt nulla in, tempor ex. Curabitur id velit dui. Maecenas ut consectetur ex.
+                    Pellentesque vitae mattis metus, sit amet mollis dui. Morbi luctus libero et orci volutpat, ut
+                    efficitur
+                    felis viverra. Nulla accumsan ornare luctus. Etiam pharetra pellentesque leo, non blandit felis
+                    sagittis
+                    sit amet. Sed placerat vel tortor id molestie. Cras dignissim nulla sed diam convallis blandit.
+                    Nulla
+                    facilisi. Cras auctor lorem in leo scelerisque, eget eleifend dui facilisis. Vivamus purus nisl,
+                    sodales
+                    eu lectus nec, suscipit sodales ante. Ut dolor ligula, dictum at augue volutpat, sodales consequat
+                    risus.</p>
+            </section>
+            <section id="map">
+                <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/11/World_Map.png">
+                <i id="north-america" class="fas fa-map-marker-alt project"></i>
+                <i id="asia" class="fas fa-map-marker-alt project"></i>
+                <i id="australia" class="fas fa-map-marker-alt project"></i>
+                <i id="south-america" class="fas fa-map-marker-alt project"></i>
+                <i id="africa" class="fas fa-map-marker-alt project"></i>
+            </section>
+        </div>
+        <section id="project-row">
+            <h2 id="default">Click on a location to view our projects</h2>
+            <div class="project africa">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Africa</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project africa">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Africa</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project africa">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Africa</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project asia">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Asia</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project asia">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Asia</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project asia">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Asia</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project north-america">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>North America</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project north-america">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>North America</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project north-america">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>North America</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project south-america">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>South America</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project south-america">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>South America</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project south-america">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>South America</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project australia">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Australia</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project australia">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Australia</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+            <div class="project australia">
+                <div class="img">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant3.jpg">
+                </div>
+                <h3>Australia</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere eros purus, blandit ultricies
+                    nulla
+                    consectetur eget. Maecenas in nibh id dui varius sollicitudin. Aliquam sagittis lectus quis nibh
+                    efficitur vulputate. In augue lacus, sodales a lobortis vel, lobortis in lorem. Orci varius natoque
+                    penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras egestas dui nunc, ut
+                    vulputate
+                    sem iaculis eu. Duis ac auctor urna. Fusce in tellus mattis, malesuada mauris in, volutpat lacus.
+                    Etiam
+                    ac neque id sem convallis blandit sit amet vel mi.</p>
+            </div>
+        </section>
+    </section>
+
+
+#projects2 #wrap{
+    background: #DDD;
+    display: flex;
+}
+#projects2 #left {
+    flex: 50%;
+    padding: 100px;
+    box-sizing: border-box;
+}
+#projects2 #left h2 {
+    text-decoration: solid underline #be1f24;
+}
+#projects2 #map {
+    flex: 50%;
+    position: relative;
+    align-self: center;
+}
+#projects2 #map img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    pointer-events: none;
+}
+#projects2 #map i {
+    position: absolute;
+    font-size: xx-large;
+    color: #be1f24;
+    cursor: pointer;
+    pointer-events: all;
+    z-index: 5;
+    transition: 0.5s;
+}
+#projects2 #map i:hover {
+    color: #F00;
+    transform: scale(1.1) translateY(-10%);
+}
+#projects2 #map #north-america {
+    top: 20%;
+    left: 10%;
+}
+#projects2 #map #asia {
+    top: 10%;
+    left: 65%;
+}
+#projects2 #map #australia {
+    top: 65%;
+    left: 80%;
+}
+#projects2 #map #south-america {
+    top: 60%;
+    left: 20%;
+}
+#projects2 #map #africa {
+    top: 65%;
+    left: 47%;
+}
+#projects2 #project-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0 0 5px inset #222;
+
+    box-sizing: border-box;
+}
+#projects2 #project-row h2 {
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+}
+#projects2 #project-row .project {
+    display: none;
+    max-width: 33%;
+    border: 1px solid #222;
+    box-sizing: border-box;
+}
+#projects2 #project-row .project.show {
+    display: block;
+}
+#projects2 #project-row .project .img {
+    width: 100%;
+    height: 200px;
+    border: 2px solid #be1f24;
+    box-sizing: border-box;
+}
+#projects2 #project-row .project .img img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+#projects2 #project-row .project h3 {
+    width: 100%;
+    text-align: center;
+}
+#projects2 #project-row .project p {
+    width: 100%;
+    padding: 20px 50px;
+    box-sizing: border-box;
+}
+
+const projects2 = document.querySelectorAll("#projects2 #project-row .project");
+document.querySelectorAll("#projects2 #wrap #map i").forEach(toggle => {
+    toggle.addEventListener("click", () => {
+        document.querySelector("#projects2 #project-row #default").style.display = "none";
+        projects2.forEach(project => {
+            if (project.classList.contains(toggle.id)) {
+                project.classList.add("show");
+            }
+            else {
+                project.classList.remove("show");
+            }
+        })
+    })
+})

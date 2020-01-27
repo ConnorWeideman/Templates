@@ -1,0 +1,301 @@
+
+    <section id="products2" class="design">
+        <div id="container">
+            <div id="toggle">
+                <a id="all">ALL</a>
+                <a id="thickeners">OPERATION OF FACILITIES</a>
+                <a id="jigs">FEASIBILITY AND DUE DILIGENCE STUDIES</a>
+                <a id="other">ENGINEERING DESIGN AND FABRICATION</a>
+                <a id="agitation">DESIGN AND BUILD OF COAL PROCESSING PLANTS</a>
+                <a id="filters">BOMAX ENGINEERING</a>
+            </div>
+            <div id="product-row">
+                <div class="product jigs">
+                    <div class="img">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/10/Jigs.jpg">
+                    </div>
+                    <div class="content">
+                        <h3>Operation of Facilities</h3>
+                        <p>Suspendisse in consectetur nisi. Sed ultrices turpis sit amet ipsum venenatis dictum.
+                            Maecenas
+                            turpis
+                            nisl, egestas egestas metus a, sollicitudin dapibus risus. Cras efficitur tortor in
+                            dignissim
+                            efficitur. In hac habitasse platea dictumst. Pellentesque libero diam, sodales eget
+                            nibh at,
+                            ultricies auctor lorem. Donec vel aliquam tellus. Mauris facilisis suscipit iaculis.
+                            Nulla sed
+                            porttitor sapien, id commodo tellus. Quisque vel ultrices risus. Donec in commodo
+                            turpis, a
+                            sagittis
+                            velit.<a href="<?php bloginfo('wpurl')?>/products/product"> Details...</a></p>
+                    </div>
+                </div>
+                <div class="product other">
+                    <div class="img">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Plant3.jpg">
+                    </div>
+                    <div class="content">
+                        <h3>Feasibility and Due Diligence Studies</h3>
+                        <p>Suspendisse in consectetur nisi. Sed ultrices turpis sit amet ipsum venenatis dictum.
+                            Maecenas
+                            turpis
+                            nisl, egestas egestas metus a, sollicitudin dapibus risus. Cras efficitur tortor in
+                            dignissim
+                            efficitur. In hac habitasse platea dictumst. Pellentesque libero diam, sodales eget
+                            nibh at,
+                            ultricies auctor lorem. Donec vel aliquam tellus. Mauris facilisis suscipit iaculis.
+                            Nulla sed
+                            porttitor sapien, id commodo tellus. Quisque vel ultrices risus. Donec in commodo
+                            turpis, a
+                            sagittis
+                            velit.<a href="<?php bloginfo('wpurl')?>/products/product"> Details...</a></p>
+                    </div>
+                </div>
+                <div class="product agitation">
+                    <div class="img">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Plant2.jpg">
+                    </div>
+                    <div class="content">
+                        <h3>Engineering Design and Fabrication</h3>
+                        <p>Suspendisse in consectetur nisi. Sed ultrices turpis sit amet ipsum venenatis dictum.
+                            Maecenas
+                            turpis
+                            nisl, egestas egestas metus a, sollicitudin dapibus risus. Cras efficitur tortor in
+                            dignissim
+                            efficitur. In hac habitasse platea dictumst. Pellentesque libero diam, sodales eget
+                            nibh at,
+                            ultricies auctor lorem. Donec vel aliquam tellus. Mauris facilisis suscipit iaculis.
+                            Nulla sed
+                            porttitor sapien, id commodo tellus. Quisque vel ultrices risus. Donec in commodo
+                            turpis, a
+                            sagittis
+                            velit.<a href="<?php bloginfo('wpurl')?>/products/product"> Details...</a></p>
+                    </div>
+                </div>
+                <div class="product agitation">
+                    <div class="img">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Picture1-1.jpg">
+                    </div>
+                    <div class="content">
+                        <h3>Design and Build of Coal Processing Plants</h3>
+                        <p>Suspendisse in consectetur nisi. Sed ultrices turpis sit amet ipsum venenatis dictum.
+                            Maecenas
+                            turpis
+                            nisl, egestas egestas metus a, sollicitudin dapibus risus. Cras efficitur tortor in
+                            dignissim
+                            efficitur. In hac habitasse platea dictumst. Pellentesque libero diam, sodales eget
+                            nibh at,
+                            ultricies auctor lorem. Donec vel aliquam tellus. Mauris facilisis suscipit iaculis.
+                            Nulla sed
+                            porttitor sapien, id commodo tellus. Quisque vel ultrices risus. Donec in commodo
+                            turpis, a
+                            sagittis
+                            velit.<a href="<?php bloginfo('wpurl')?>/products/product"> Details...</a></p>
+                    </div>
+                </div>
+                <div class="product filters">
+                    <div class="img">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Three-Product-Cyclone.png">
+                    </div>
+                    <div class="content">
+                        <h3>Modular Plants</h3>
+                        <p>Suspendisse in consectetur nisi. Sed ultrices turpis sit amet ipsum venenatis dictum.
+                            Maecenas
+                            turpis
+                            nisl, egestas egestas metus a, sollicitudin dapibus risus. Cras efficitur tortor in
+                            dignissim
+                            efficitur. In hac habitasse platea dictumst. Pellentesque libero diam, sodales eget
+                            nibh at,
+                            ultricies auctor lorem. Donec vel aliquam tellus. Mauris facilisis suscipit iaculis.
+                            Nulla sed
+                            porttitor sapien, id commodo tellus. Quisque vel ultrices risus. Donec in commodo
+                            turpis, a
+                            sagittis
+                            velit.<a href="<?php bloginfo('wpurl')?>/products/product"> Details...</a></p>
+                    </div>
+                </div>
+                <div class="product thickeners">
+                    <div class="img">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Picture1-2.jpg">
+                    </div>
+                    <div class="content">
+                        <h3>Bomax Engineering</h3>
+                        <p>Suspendisse in consectetur nisi. Sed ultrices turpis sit amet ipsum venenatis dictum.
+                            Maecenas
+                            turpis
+                            nisl, egestas egestas metus a, sollicitudin dapibus risus. Cras efficitur tortor in
+                            dignissim
+                            efficitur. In hac habitasse platea dictumst. Pellentesque libero diam, sodales eget
+                            nibh at,
+                            ultricies auctor lorem. Donec vel aliquam tellus. Mauris facilisis suscipit iaculis.
+                            Nulla sed
+                            porttitor sapien, id commodo tellus. Quisque vel ultrices risus. Donec in commodo
+                            turpis, a
+                            sagittis
+                            velit.<a href="<?php bloginfo('wpurl')?>/products/product"> Details...</a></p>
+                    </div>
+                </div>
+                <div class="product other">
+                    <div class="img">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Umlalazi.jpg">
+                    </div>
+                    <div class="content">
+                        <h3>Trouble shooting and general metallurgical
+                            consulting</h3>
+                        <p>Suspendisse in consectetur nisi. Sed ultrices turpis sit amet ipsum venenatis dictum.
+                            Maecenas
+                            turpis
+                            nisl, egestas egestas metus a, sollicitudin dapibus risus. Cras efficitur tortor in
+                            dignissim
+                            efficitur. In hac habitasse platea dictumst. Pellentesque libero diam, sodales eget
+                            nibh at,
+                            ultricies auctor lorem. Donec vel aliquam tellus. Mauris facilisis suscipit iaculis.
+                            Nulla sed
+                            porttitor sapien, id commodo tellus. Quisque vel ultrices risus. Donec in commodo
+                            turpis, a
+                            sagittis
+                            velit.<a href="<?php bloginfo('wpurl')?>/products/product"> Details...</a></p>
+                    </div>
+                </div>
+                <div class="product filters">
+                    <div class="img">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/BE9319.jpg">
+                    </div>
+                    <div class="content">
+                        <h3>Engineering consulting</h3>
+                        <p>Suspendisse in consectetur nisi. Sed ultrices turpis sit amet ipsum venenatis dictum.
+                            Maecenas
+                            turpis
+                            nisl, egestas egestas metus a, sollicitudin dapibus risus. Cras efficitur tortor in
+                            dignissim
+                            efficitur. In hac habitasse platea dictumst. Pellentesque libero diam, sodales eget
+                            nibh at,
+                            ultricies auctor lorem. Donec vel aliquam tellus. Mauris facilisis suscipit iaculis.
+                            Nulla sed
+                            porttitor sapien, id commodo tellus. Quisque vel ultrices risus. Donec in commodo
+                            turpis, a
+                            sagittis
+                            velit.<a href="<?php bloginfo('wpurl')?>/products/product"> Details...</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+#products2 {
+    display: none;
+}
+#products2 #container {
+    background: linear-gradient(#FFF, #AAA);
+    display: flex;
+    position: relative;
+    height: 80vh;
+}
+#products2 #toggle {
+    float: left;
+    display: block;
+    margin: 50px 200px;
+}
+#products2 #toggle a {
+    width: max-content;
+    display: block;
+    padding: 20px;
+    cursor: pointer;
+}
+#products2 #toggle a:hover {
+    color: #555;
+}
+#products2 #product-row {
+    flex: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    height: 80vh;
+    padding: 50px;
+    box-sizing: border-box;
+    overflow-y: scroll;
+    background: #DDD;
+    box-shadow: 0 0 5px inset #000;
+}
+#products2 #product-row .product {
+    flex: 45%;
+    flex-grow: 0;
+    height: 30vh;
+    margin: 2.5%;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border: 4px solid #be1f24;
+    box-shadow: 2px 2px 5px 2px #111;
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: 0.5s;
+    display: flex;
+}
+#products2 #product-row .product.hide {
+    display: none;
+}
+#products2 #product-row .product:hover {
+    box-shadow: 2px 2px 10px 4px #111;
+    transform: translateY(-5px);
+}
+#products2 #product-row .product .img {
+    height: 100%;
+    flex: 100%;
+}
+#products2 #product-row .product .img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-right: 1px solid #be1f24;
+}
+#products2 #product-row .product .content {
+    display: none;
+    flex: 50%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+#products2 #product-row .product .content a {
+    color: #be1f24;
+}
+
+
+const products2Products = document.querySelectorAll("#products2 #product-row .product");
+
+document.querySelectorAll("#products2 #toggle a").forEach(toggle => {
+    toggle.addEventListener("click", e => {
+        productsToggle(e.target.id, products2Products);
+    })
+});
+
+products2Products.forEach(product => {
+    let toggle = true;
+    const img = product.children[0];
+    const content = product.children[1];
+    product.addEventListener("click", e => {
+        if (toggle) {
+            product.style.flex = "95%";
+            img.style.flex = "50%";
+            content.style.display = "inline-block";
+        }
+        else {
+            product.style = "";
+            img.style = "";
+            content.style = "";
+        }
+        toggle = !toggle;
+    })
+})
+
+function productsToggle(toggle, products) {
+    products.forEach(product => {
+        if (product.classList.contains(toggle) || toggle == "all") {
+            product.classList.remove("hide");
+        }
+        else {
+            product.classList.add("hide");
+        }
+    })
+}

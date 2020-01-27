@@ -1,0 +1,87 @@
+<header class="design" id="design4"
+    style="display: none; background-image: url('<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant2.jpg')">
+    <nav>
+        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Logo.jpg" alt="logo">
+        <ol>
+            <li class="active">
+                <a href="<?php bloginfo('wpurl')?>">HOME</a>
+            </li>
+            <li>
+                <a href="<?php bloginfo('wpurl')?>/about">ABOUT US</a>
+            </li>
+            <li>
+                <a href="<?php bloginfo('wpurl')?>/strategy">STRATEGY</a>
+            </li>
+            <li>
+                <a href="<?php bloginfo('wpurl')?>/operations">OPERATIONS</a>
+            </li>
+            <li>
+                <a href="<?php bloginfo('wpurl')?>/bomax-engineering">BOMAX ENGINEERING</a>
+            </li>
+            <li>
+                <a href="<?php bloginfo('wpurl')?>/services">SERVICES</a>
+            </li>
+            <li>
+                <a href="<?php bloginfo('wpurl')?>/sustainability">SUSTAINABILITY</a>
+            </li>
+            <li>
+                <a href="<?php bloginfo('wpurl')?>/media">MEDIA</a>
+            </li>
+            <li>
+                <a href="<?php bloginfo('wpurl')?>/contact">CONTACT US</a>
+            </li>
+        </ol>
+    </nav>
+    <div class="diagonal"></div>
+</header>
+
+#navbar #design4 {
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    height: 75vh;
+    overflow: hidden;
+}
+#navbar #design4 .diagonal {
+    position: absolute;
+    bottom: 0;
+    transform: rotate(-2deg) translateY(50%) translateX(-25%);
+    background-color: #EEE;
+    border-top: 5px solid #F00;
+    width: 150%;
+    height: 25%;
+}
+#navbar #design4 nav {
+    position: fixed;
+    width: 100%;
+    height: 10vh;
+    background-color: #DDD;
+    border-bottom: 1px solid #BBB;
+    padding: 5px;
+    z-index: 10;
+}
+#navbar #design4 nav img {
+    width: 15%;
+    padding: 10px;
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+#navbar #design4 nav ol {
+    width: 70%;
+    float: right;
+    position: relative;
+}
+#navbar #design4 nav ol li {
+    width: 16%;
+    height: 100%;
+    text-align: center;
+}
+#navbar #design4 nav ol li a {
+    vertical-align: middle;
+    text-shadow: 0 0 100px #0FF, 2px 2px 0px #FFF;
+    font-weight: bold;
+}
+#navbar #design4 nav ol li.active {
+    background: url("https://cmfreelancing.co.za/client_sites/ingwenya/wp-content/uploads/2019/12/Small-Logo.png") center center no-repeat;
+    background-size: contain;
+}

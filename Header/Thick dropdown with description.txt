@@ -1,0 +1,213 @@
+        <header class="design" id="design2"
+            style="display: none; background-image: url('<?php bloginfo('wpurl')?>/wp-content/uploads/2019/12/Plant2.jpg')">
+            <nav>
+                <a href="<?php bloginfo('wpurl')?>">
+                    <img id="logo" src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Logo.jpg" alt="Logo">
+                </a>
+                <ol>
+                    <li>
+                        <a href="<?php bloginfo('wpurl')?>/about">ABOUT</a>
+                        <div class="info">
+                            <div class="left">
+                                <a href="<?php bloginfo('wpurl')?>/about#company">Our Vision</a>
+                                <a href="<?php bloginfo('wpurl')?>/about#stats">Our Mission</a>
+                                <a href="<?php bloginfo('wpurl')?>/about#partners">Our Values</a>
+                                <a href="<?php bloginfo('wpurl')?>/about#clients">Sustainability</a>
+                            </div>
+                            <div class="right">
+                                <div class="content">
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio expedita harum
+                                    optio nihil, provident beatae placeat nostrum omnis architecto praesentium, sequi
+                                    consequatur animi? Sequi voluptatem tempore doloremque hic? Sed, velit?
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="<?php bloginfo('wpurl')?>/strategy">STRATEGY</a>
+                        <div class="info">
+                            <div class="left">
+                                <a href="<?php bloginfo('wpurl')?>/products">Fabrication of Modular Plants</a>
+                                <a href="<?php bloginfo('wpurl')?>/products">Maintenance and Operation</a>
+                                <a href="<?php bloginfo('wpurl')?>/products">Stakeholders</a>
+                                <a href="<?php bloginfo('wpurl')?>/products">Core Competencies</a>
+                                <a href="<?php bloginfo('wpurl')?>/products">Differentiators</a>
+                            </div>
+                            <div class="right">
+                                <div class="content">
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio expedita harum
+                                    optio nihil, provident beatae placeat nostrum omnis architecto praesentium, sequi
+                                    consequatur animi? Sequi voluptatem tempore doloremque hic? Sed, velit?
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="<?php bloginfo('wpurl')?>/products">SERVICES</a>
+                        <div class="info">
+                            <div class="left">
+                                <a href="<?php bloginfo('wpurl')?>/products">Consulting Services</a>
+                                <a href="<?php bloginfo('wpurl')?>/products">Modular Plants</a>
+                                <a href="<?php bloginfo('wpurl')?>/products">Bomax Engineering</a>
+                            </div>
+                            <div class="right">
+                                <div class="content">
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio expedita harum
+                                    optio nihil, provident beatae placeat nostrum omnis architecto praesentium, sequi
+                                    consequatur animi? Sequi voluptatem tempore doloremque hic? Sed, velit?
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="<?php bloginfo('wpurl')?>/projects">OPERATIONS</a>
+                        <div class="info">
+                            <div class="left">
+                                <a href="<?php bloginfo('wpurl')?>/projects">Hakhano Colliery</a>
+                                <a href="<?php bloginfo('wpurl')?>/projects">NewClydesdale Colliery</a>
+                                <a href="<?php bloginfo('wpurl')?>/projects">ZAC Discard Plant</a>
+                                <a href="<?php bloginfo('wpurl')?>/projects">Phalanndwa Colliery</a>
+                            </div>
+                            <div class="right">
+                                <div class="content">
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio expedita harum
+                                    optio nihil, provident beatae placeat nostrum omnis architecto praesentium, sequi
+                                    consequatur animi? Sequi voluptatem tempore doloremque hic? Sed, velit?
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="<?php bloginfo('wpurl')?>/news">MEDIA</a>
+                        <div class="info">
+                            <div class="left">
+                                <a href="<?php bloginfo('wpurl')?>/news">Gallery</a>
+                                <a href="<?php bloginfo('wpurl')?>/news">News</a>
+                                <a href="<?php bloginfo('wpurl')?>/news">Press Releases</a>
+                                <a href="<?php bloginfo('wpurl')?>/news">Downloads</a>
+                            </div>
+                            <div class="right">
+                                <div class="content">
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio expedita harum
+                                    optio nihil, provident beatae placeat nostrum omnis architecto praesentium, sequi
+                                    consequatur animi? Sequi voluptatem tempore doloremque hic? Sed, velit?
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="<?php bloginfo('wpurl')?>/contact">CONTACT US</a>
+                        <div class="info">
+                            <div class="left">
+                                <a href="<?php bloginfo('wpurl')?>/contact">Contact Details</a>
+                                <a href="<?php bloginfo('wpurl')?>/contact">Contact Form</a>
+                                <a href="<?php bloginfo('wpurl')?>/contact">Hakhano Colliery</a>
+                                <a href="<?php bloginfo('wpurl')?>/contact">NewClydesdale Colliery</a>
+                                <a href="<?php bloginfo('wpurl')?>/contact">ZAC Discard Plant</a>
+                                <a href="<?php bloginfo('wpurl')?>/contact">Phalanndwa Colliery</a>
+                            </div>
+                            <div class="right">
+                                <div class="content">
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio expedita harum
+                                    optio nihil, provident beatae placeat nostrum omnis architecto praesentium, sequi
+                                    consequatur animi? Sequi voluptatem tempore doloremque hic? Sed, velit?
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ol>
+            </nav>
+            <div class="circle"></div>
+        </header>
+
+
+
+#navbar #design2 {
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    height: 75vh;
+    border-bottom: 6px solid #be1f24;
+}
+#navbar #design2 .circle {
+    bottom: -13px;
+    right: 0;
+    background: #be1f24;
+    z-index: 10;
+}
+#navbar #design2 nav {
+    height: 10vh;
+    background-color: #FFF;
+    border-bottom: 2px solid #be1f24;
+
+}
+#navbar #design2 nav img {
+    max-height: 10vh;
+    width: 25%;
+    padding: 10px;
+    box-sizing: border-box;
+    object-fit: contain;
+}
+#navbar #design2 nav ol {
+    float: right;
+    width: 75%;
+    display: flex;
+}
+#navbar #design2 nav ol li {
+    width: 20%;
+    text-align: center;
+    position: relative;
+}
+#navbar #design2 nav ol li > a {
+    height: 10vh;
+    width: 100%;
+    display: inline-block;
+    transition: 0.5s;
+}
+#navbar #design2 nav ol li:hover > a {
+    background-color: #df3f46;
+}
+#navbar #design2 nav ol li a:hover {
+    color: #333;
+}
+#navbar #design2 nav ol li .info {
+    display: none;
+    background: #DDD;
+    position: absolute;
+    top: 10vh;
+    right: 0;
+    border: 2px solid #be1f24;
+    min-width: 30vw;
+    justify-content: center;
+    align-content: center;
+}
+#navbar #design2 nav ol li:hover .info {
+    display: flex;
+}
+#navbar #design2 nav ol li .info .left {
+    flex: 50%;
+    padding: 10px 50px;
+    box-sizing: border-box;
+    height: max-content;
+    align-self: center;
+}
+#navbar #design2 nav ol li .info .left a {
+    display: block;
+    width: max-content;
+    line-height: 5vh;
+}
+#navbar #design2 nav ol li .info .right {
+    flex: 50%;
+    padding: 20px;
+    max-height: 50vh;
+    line-height: normal;
+    border-left: 1px solid #222;
+}
+#navbar #design2 nav ol li .info .right .content {
+    height: 100%;
+    overflow: auto;
+    background: #FFF;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px inset #AAA;
+}

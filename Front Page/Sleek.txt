@@ -1,0 +1,561 @@
+    <section class="design" id="main2">
+        <section id="about">
+            <h2>ABOUT US</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor diam in felis posuere, et
+                vestibulum mauris facilisis. Pellentesque dapibus mauris a condimentum imperdiet. Donec ut ante blandit,
+                viverra sem vitae, volutpat sem. Vestibulum dictum, urna sit amet pretium volutpat, augue libero commodo
+                dolor, eu gravida ligula est vel tortor. Sed semper nisi risus, nec fermentum neque faucibus in. Nulla
+                et metus orci. Morbi laoreet efficitur arcu, sed congue diam tristique et. Donec elementum dictum
+                mauris, non viverra dui commodo id. Suspendisse porta posuere commodo. Etiam ut ipsum faucibus,
+                ultricies odio eu, finibus ligula. Morbi pulvinar feugiat arcu, vitae efficitur nisl egestas ut.
+                Phasellus sed pretium felis. Quisque elementum, ligula condimentum rutrum mollis, purus lectus facilisis
+                leo, sed egestas eros orci a tellus. Praesent posuere imperdiet tempus.</p>
+            <p>Maecenas imperdiet tempus orci quis semper. Cras eget augue neque. Cras non justo ut justo auctor
+                pretium. Vestibulum a ornare odio. Vivamus imperdiet vehicula lectus, non iaculis nunc tincidunt eget.
+                Vestibulum et luctus mi, sed pretium diam. Cras varius feugiat lectus, at volutpat tellus consequat et.
+                Nulla porta odio sit amet convallis tincidunt. Nam vel purus id quam convallis porttitor non sit amet
+                neque. Vestibulum mauris felis, condimentum eu luctus non, elementum sit amet urna. Proin laoreet turpis
+                a metus dignissim, ac eleifend velit euismod. Quisque a metus leo.</p>
+        </section>
+        <section id="products">
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div id="info">
+                <h2>PRODUCTS / SERVICES</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus, mi et aliquam pulvinar, nisi
+                    mauris fringilla ipsum, sed tempor diam purus a sapien. Phasellus ligula leo, convallis at neque et,
+                    placerat aliquam leo. Fusce vel tristique lectus. In tincidunt a metus auctor lacinia. Proin vel
+                    nunc rhoncus, dictum lacus sit amet, vulputate mauris. Donec feugiat nisl metus, id interdum mi
+                    scelerisque id. Praesent cursus nulla eget nisl dapibus, vitae faucibus dui sodales. Integer
+                    volutpat dictum diam at vehicula. Nullam tristique luctus eros. Fusce tincidunt porttitor tempus.
+                    Morbi scelerisque at mi ac posuere. Donec volutpat lorem sit amet dui pulvinar, aliquam varius enim
+                    facilisis. Aenean nec ipsum felis. Nulla facilisis et sem a porta. Nulla at varius lacus, vitae
+                    feugiat mauris. Suspendisse purus nibh, sodales quis tincidunt at, mattis a sapien.</p>
+            </div>
+            <div id="product-container">
+                <div id="toggles">
+                    <a id="all">All</a>
+                    <a id="thickeners">Operation of Facilities</a>
+                    <a id="agitation">Feasibility and Due Diligence Studies</a>
+                    <a id="jigs">Engineering Design and Fabrication</a>
+                    <a id="larcodems">Design and Build of Coal Processing Plants</a>
+                    <a id="filters">Bomax Engineering</a>
+                </div>
+                <div id="product-row">
+                    <a href="<?php bloginfo('wpurl')?>/products" class="product larcodems">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/BE9319.jpg">
+                        <div class="overlay">
+                            <h3>Operation of Facilities</h3>
+                        </div>
+                    </a>
+                    <a href="<?php bloginfo('wpurl')?>/products" class="product jigs">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Umlalazi.jpg">
+                        <div class="overlay">
+                            <h3>Feasibility and Due Diligence Studies</h3>
+                        </div>
+                    </a>
+                    <a href="<?php bloginfo('wpurl')?>/products" class="product lab">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/10/Jigs.jpg">
+                        <div class="overlay">
+                            <h3>Engineering Design and Fabrication</h3>
+                        </div>
+                    </a>
+                    <a href="<?php bloginfo('wpurl')?>/products" class="product other">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Picture1-2.jpg">
+                        <div class="overlay">
+                            <h3>Design and Build of Coal Processing Plants</h3>
+                        </div>
+                    </a>
+                    <a href="<?php bloginfo('wpurl')?>/products" class="product agitation">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Three-Product-Cyclone.png">
+                        <div class="overlay">
+                            <h3>Modular Plants</h3>
+                        </div>
+                    </a>
+                    <a href="<?php bloginfo('wpurl')?>/products" class="product agitation">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Picture1-1.jpg">
+                        <div class="overlay">
+                            <h3>Bomax Engineering</h3>
+                        </div>
+                    </a>
+                    <a href="<?php bloginfo('wpurl')?>/products" class="product filters">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Plant2.jpg">
+                        <div class="overlay">
+                            <h3>Trouble shooting and general metallurgical
+                                consulting</h3>
+                        </div>
+                    </a>
+                    <a href="<?php bloginfo('wpurl')?>/products" class="product thickeners">
+                        <img src="<?php bloginfo("wpurl")?>/wp-content/uploads/2019/12/Plant3.jpg">
+                        <div class="overlay">
+                            <h3>Engineering consulting</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <section id="projects">
+            <div id="map">
+                <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/11/World_Map.png">
+                <i id="project1" class="fas fa-map-marker-alt project"></i>
+                <i id="project2" class="fas fa-map-marker-alt project"></i>
+                <i id="project3" class="fas fa-map-marker-alt project"></i>
+                <i id="project4" class="fas fa-map-marker-alt project"></i>
+                <i id="project5" class="fas fa-map-marker-alt project"></i>
+                <p>Click on a location to see it's details.</p>
+            </div>
+            <div id="info">
+                <a href="<?php bloginfo('wpurl')?>/projects">
+                    <h2>OPERATIONS</h2>
+                </a>
+                <div class="project-info show" id="0">
+                    <p>Main Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut venenatis neque. Mauris
+                        malesuada ultricies libero sed fringilla. Duis consequat pharetra est non scelerisque. Etiam
+                        mollis metus turpis, malesuada fermentum urna hendrerit in. Donec blandit gravida massa, non
+                        pellentesque lectus varius et. Proin varius turpis dolor, eu hendrerit purus pharetra lobortis.
+                        Vestibulum tristique sem a hendrerit dignissim. Proin consectetur arcu nec hendrerit
+                        pellentesque. Maecenas sed posuere libero. Vestibulum id rhoncus nisi, vel egestas justo.
+                        Pellentesque dapibus eget justo ut ultricies. Proin at suscipit ligula. Donec placerat turpis
+                        non eleifend elementum. Sed accumsan scelerisque enim porttitor tincidunt.</p>
+                </div>
+                <div class="project-info" id="1">
+                    <p>1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut venenatis neque. Mauris
+                        malesuada ultricies libero sed fringilla. Duis consequat pharetra est non scelerisque. Etiam
+                        mollis metus turpis, malesuada fermentum urna hendrerit in. Donec blandit gravida massa, non
+                        pellentesque lectus varius et. Proin varius turpis dolor, eu hendrerit purus pharetra lobortis.
+                        Vestibulum tristique sem a hendrerit dignissim. Proin consectetur arcu nec hendrerit
+                        pellentesque. Maecenas sed posuere libero. Vestibulum id rhoncus nisi, vel egestas justo.
+                        Pellentesque dapibus eget justo ut ultricies. Proin at suscipit ligula. Donec placerat turpis
+                        non eleifend elementum. Sed accumsan scelerisque enim porttitor tincidunt.</p>
+                </div>
+                <div class="project-info" id="2">
+                    <p>2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut venenatis neque. Mauris
+                        malesuada ultricies libero sed fringilla. Duis consequat pharetra est non scelerisque. Etiam
+                        mollis metus turpis, malesuada fermentum urna hendrerit in. Donec blandit gravida massa, non
+                        pellentesque lectus varius et. Proin varius turpis dolor, eu hendrerit purus pharetra lobortis.
+                        Vestibulum tristique sem a hendrerit dignissim. Proin consectetur arcu nec hendrerit
+                        pellentesque. Maecenas sed posuere libero. Vestibulum id rhoncus nisi, vel egestas justo.
+                        Pellentesque dapibus eget justo ut ultricies. Proin at suscipit ligula. Donec placerat turpis
+                        non eleifend elementum. Sed accumsan scelerisque enim porttitor tincidunt.</p>
+                </div>
+                <div class="project-info" id="3">
+                    <p>3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut venenatis neque. Mauris
+                        malesuada ultricies libero sed fringilla. Duis consequat pharetra est non scelerisque. Etiam
+                        mollis metus turpis, malesuada fermentum urna hendrerit in. Donec blandit gravida massa, non
+                        pellentesque lectus varius et. Proin varius turpis dolor, eu hendrerit purus pharetra lobortis.
+                        Vestibulum tristique sem a hendrerit dignissim. Proin consectetur arcu nec hendrerit
+                        pellentesque. Maecenas sed posuere libero. Vestibulum id rhoncus nisi, vel egestas justo.
+                        Pellentesque dapibus eget justo ut ultricies. Proin at suscipit ligula. Donec placerat turpis
+                        non eleifend elementum. Sed accumsan scelerisque enim porttitor tincidunt.</p>
+                </div>
+                <div class="project-info" id="4">
+                    <p>4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut venenatis neque. Mauris
+                        malesuada ultricies libero sed fringilla. Duis consequat pharetra est non scelerisque. Etiam
+                        mollis metus turpis, malesuada fermentum urna hendrerit in. Donec blandit gravida massa, non
+                        pellentesque lectus varius et. Proin varius turpis dolor, eu hendrerit purus pharetra lobortis.
+                        Vestibulum tristique sem a hendrerit dignissim. Proin consectetur arcu nec hendrerit
+                        pellentesque. Maecenas sed posuere libero. Vestibulum id rhoncus nisi, vel egestas justo.
+                        Pellentesque dapibus eget justo ut ultricies. Proin at suscipit ligula. Donec placerat turpis
+                        non eleifend elementum. Sed accumsan scelerisque enim porttitor tincidunt.</p>
+                </div>
+                <div class="project-info" id="5">
+                    <p>5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut venenatis neque. Mauris
+                        malesuada ultricies libero sed fringilla. Duis consequat pharetra est non scelerisque. Etiam
+                        mollis metus turpis, malesuada fermentum urna hendrerit in. Donec blandit gravida massa, non
+                        pellentesque lectus varius et. Proin varius turpis dolor, eu hendrerit purus pharetra lobortis.
+                        Vestibulum tristique sem a hendrerit dignissim. Proin consectetur arcu nec hendrerit
+                        pellentesque. Maecenas sed posuere libero. Vestibulum id rhoncus nisi, vel egestas justo.
+                        Pellentesque dapibus eget justo ut ultricies. Proin at suscipit ligula. Donec placerat turpis
+                        non eleifend elementum. Sed accumsan scelerisque enim porttitor tincidunt.</p>
+                </div>
+            </div>
+        </section>
+        <section id="news">
+            <div class="circle"></div>
+            <h2>NEWS</h2>
+            <div id="blog-list">
+                <div class="blog">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/Plant-1.png">
+                    <a href="<?php bloginfo('wpurl')?>/news" class="blog-content">
+                        <h3>Title</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor diam in felis
+                            posuere, et
+                            vestibulum mauris facilisis. Pellentesque dapibus mauris a condimentum imperdiet. Donec ut
+                            ante
+                            blandit,
+                            viverra sem vitae, volutpat sem.</p>
+                        <div class="blog-tick1"></div>
+                        <div class="blog-tick2"></div>
+                    </a>
+                </div>
+                <div class="blog">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/Plant-1.png">
+                    <a href="<?php bloginfo('wpurl')?>/news" class="blog-content">
+                        <h3>Title</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor diam in felis
+                            posuere, et
+                            vestibulum mauris facilisis. Pellentesque dapibus mauris a condimentum imperdiet. Donec ut
+                            ante
+                            blandit,
+                            viverra sem vitae, volutpat sem.</p>
+                        <div class="blog-tick1"></div>
+                        <div class="blog-tick2"></div>
+                    </a>
+                </div>
+                <div class="blog">
+                    <img src="<?php bloginfo('wpurl')?>/wp-content/uploads/2019/10/Plant-1.png">
+                    <a href="<?php bloginfo('wpurl')?>/news" class="blog-content">
+                        <h3>Title</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor diam in felis
+                            posuere, et
+                            vestibulum mauris facilisis. Pellentesque dapibus mauris a condimentum imperdiet. Donec ut
+                            ante
+                            blandit,
+                            viverra sem vitae, volutpat sem.</p>
+                        <div class="blog-tick1"></div>
+                        <div class="blog-tick2"></div>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <section id="clients">
+            <h2>CLIENTS</h2>
+            <div id="client-row">
+                <div class="client">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor diam in felis posuere, et
+                        vestibulum mauris facilisis. Pellentesque dapibus mauris a condimentum imperdiet. Donec ut ante
+                        blandit,
+                        viverra sem vitae, volutpat sem. Vestibulum dictum, urna sit amet pretium volutpat, augue libero
+                        commodo
+                        dolor, eu gravida ligula est vel tortor.</p>
+                    <h3>Client 1</h3>
+                </div>
+                <div class="client">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor diam in felis posuere, et
+                        vestibulum mauris facilisis. Pellentesque dapibus mauris a condimentum imperdiet. Donec ut ante
+                        blandit,
+                        viverra sem vitae, volutpat sem. Vestibulum dictum, urna sit amet pretium volutpat, augue libero
+                        commodo
+                        dolor, eu gravida ligula est vel tortor.</p>
+                    <h3>Client 2</h3>
+                </div>
+                <div class="client">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor diam in felis posuere, et
+                        vestibulum mauris facilisis. Pellentesque dapibus mauris a condimentum imperdiet. Donec ut ante
+                        blandit,
+                        viverra sem vitae, volutpat sem. Vestibulum dictum, urna sit amet pretium volutpat, augue libero
+                        commodo
+                        dolor, eu gravida ligula est vel tortor.</p>
+                    <h3>Client 3</h3>
+                </div>
+            </div>
+        </section>
+    </section>
+
+    #main2 #about {
+    padding: 20px 15% 50px;
+    background-color: #FFF;
+    text-align: right;
+}
+#main2 #about h2 {
+    padding: 20px 0;
+    margin: 0;
+    color: #be1f24;
+}
+#main2 #products {
+    background: #000;
+    border-top: 4px solid #be1f24;
+    border-bottom: 4px solid #be1f24;
+    color: #FFF;
+    position: relative;
+}
+#main2 #products .circle {
+    background: #be1f24;
+    bottom: -12px;
+    right: 0;
+}
+#main2 #products .circle:first-child {
+    top: -12px;
+    left: 0;
+    bottom: unset;
+    right: unset;
+}
+#main2 #products #info {
+    width: 50%;
+    float: left;
+    padding: 100px;
+    box-sizing: border-box;
+}
+#main2 #products #product-container {
+    width: 50%;
+    display: inline-block;
+    padding: 50px;
+    box-sizing: border-box;
+}
+#main2 #products #product-container #toggles {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#main2 #products #product-container #toggles a {
+    background: linear-gradient(#DDD, #FFF, #DDD);
+    color: #000;
+    min-width: 20%;
+    padding: 10px;
+    box-sizing: border-box;
+    transform: skewX(-10deg);
+    cursor: pointer;
+    margin: 2px;
+}
+#main2 #products #product-container #toggles a:hover {
+    background: linear-gradient(#BBB, #DDD, #BBB);
+}
+#main2 #products #product-container #product-row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 40vh;
+}
+#main2 #products #product-container #product-row .product {
+    width: 25%;
+    height: 20vh;
+    position: relative;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+#main2 #products #product-container #product-row .product img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+#main2 #products #product-container #product-row .product .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #000;
+    opacity: 0;
+    transition: 0.5s;
+    cursor: pointer;
+}
+#main2 #products #product-container #product-row .product .overlay:hover {
+    opacity: 0.95;
+}
+#main2 #products #product-container #product-row .product .overlay h3 {
+    margin: 0;
+    line-height: 20vh;
+    width: 100%;
+    text-align: center;
+    color: #FFF;
+}
+#main2 #products #product-container #product-row .product.hide {
+    display: none;
+}
+#main2 #projects {
+    background: #FFF;
+    padding: 50px;
+    box-shadow: 0 0 5px inset #222;
+    display: flex;
+}
+#main2 #projects #map {
+    width: 50%;
+    position: relative;
+    align-self: center;
+}
+#main2 #projects #map img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    pointer-events: none;
+}
+#main2 #projects #map i {
+    position: absolute;
+    font-size: xx-large;
+    color: #be1f24;
+    cursor: pointer;
+    pointer-events: all;
+    z-index: 5;
+    transition: 0.5s;
+}
+#main2 #projects #map i:hover {
+    color: #F00;
+    transform: scale(1.1) translateY(-10%);
+}
+#main2 #projects #map #project1 {
+    top: 20%;
+    left: 10%;
+}
+#main2 #projects #map #project2 {
+    top: 10%;
+    left: 65%;
+}
+#main2 #projects #map #project3 {
+    top: 65%;
+    left: 80%;
+}
+#main2 #projects #map #project4 {
+    top: 60%;
+    left: 20%;
+}
+#main2 #projects #map #project5 {
+    top: 65%;
+    left: 47%;
+}
+#main2 #projects #map p {
+    position: absolute;
+    color: #be1f24;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    font-weight: bolder;
+}
+#main2 #projects #info {
+    width: 50%;
+    display: inline-block;
+    padding: 50px;
+    box-sizing: border-box;
+    align-self: center;
+}
+#main2 #projects #info h2 {
+    color: #be1f24;
+}
+#main2 #projects #info .project-info {
+    display: none;
+}
+#main2 #projects #info .project-info.show {
+    display: block;
+}
+#main2 #news {
+    border-top: 4px solid #000;
+    background-color: #EEE;
+    padding: 50px;
+    position: relative;
+}
+#main2 #news .circle {
+    background: #000;
+    top: -12px;
+    left: 0;
+}
+#main2 #news h2 {
+    padding: 0 10vw;
+}
+#main2 #news #blog-list {
+    width: 80vw;
+    margin: auto;
+}
+#main2 #news #blog-list .blog {
+    width: 100%;
+    margin: 50px 0;
+    display: flex;
+}
+#main2 #news #blog-list .blog img {
+    height: 10vw;
+    width: 10vw;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border-radius: 50%;
+    border: 5px solid #be1f24;
+    margin-right: 5vw;
+    box-sizing: border-box;
+    align-self: center;
+    transition: 0.5s;
+}
+#main2 #news #blog-list .blog .blog-content {
+    background-color: #DDD;
+    border-radius: 20px;
+    border: 1px solid #555;
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    box-shadow: 2px 2px 5px #222;
+    transition: 0.5s;
+    cursor: pointer;
+    display: block;
+}
+#main2 #news #blog-list .blog .blog-content .blog-tick1 {
+    width: 40px;
+    height: 40px;
+    background-color: #DDD;
+    position: absolute;
+    bottom: -1px;
+    left: -20px;
+    border-bottom: 1px solid #555;
+    transition: 0.5s;
+}
+#main2 #news #blog-list .blog .blog-content .blog-tick2 {
+    width: 20px;
+    height: 42px;
+    background-color: #EEE;
+    position: absolute;
+    bottom: 0px;
+    left: -21px;
+    border-bottom: 1px solid #555;
+    border-right: 1px solid #555;
+    border-bottom-right-radius: 40px;
+}
+#main2 #news #blog-list .blog:hover .blog-content {
+    background-color: #BBB;
+    box-shadow: 2px 2px 5px #000;
+}
+#main2 #news #blog-list .blog:hover .blog-content .blog-tick1 {
+    background-color: #BBB;
+}
+#main2 #news #blog-list .blog:hover img {
+    box-shadow: 2px 2px 5px #000;
+    transform: scale(1.05);
+}
+#main2 #clients {
+    background-color: #DDD;
+    padding: 50px;
+    box-shadow: 0 0 5px inset #222;
+}
+#main2 #clients h2 {
+    text-align: center;
+}
+#main2 #clients #client-row {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+#main2 #clients #client-row .client {
+    text-align: center;
+    padding: 0 50px;
+}
+
+
+function productsToggle(toggle, products) {
+    products.forEach(product => {
+        if (product.classList.contains(toggle) || toggle == "all") {
+            product.classList.remove("hide");
+        }
+        else {
+            product.classList.add("hide");
+        }
+    })
+}
+
+const main2Products = document.querySelectorAll("#main2 #products #product-container #product-row .product");
+document.querySelectorAll("#main2 #products #product-container #toggles a").forEach(toggle => {
+    toggle.addEventListener("click", e => {
+        productsToggle(e.target.id, main2Products);
+    })
+});
+
+function main2ProjectsToggle(id) {
+    document.querySelectorAll("#main2 #projects #info .project-info").forEach(info => {
+        if (info.id == id) {
+            info.classList.add("show");
+        }
+        else {
+            info.classList.remove("show");
+        }
+    })
+}
+document.querySelectorAll("#main2 #projects #map .project").forEach(toggle => {
+    toggle.addEventListener("click", e => {
+        main2ProjectsToggle(e.currentTarget.id.charAt(7))
+    });
+})
